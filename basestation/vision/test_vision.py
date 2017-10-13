@@ -49,3 +49,4 @@ if __name__ == "__main__":
     # Clean up
     vc.release()
     cv2.destroyAllWindows()
+    
